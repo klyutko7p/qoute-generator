@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Mukta:200,300,regular,500,600,700,800);
+
+body {
+  background-color: #302c42;
+  color: white;
+}
+
+h1,
+button {
+  font-family: "Mukta", sans-serif;
+}
+
+p,
+blockquote {
+  font-family: "Quicksand", sans-serif;
+}
